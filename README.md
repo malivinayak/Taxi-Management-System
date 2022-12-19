@@ -7,7 +7,7 @@ A simple Taxi Management System.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Features:](#features)
+- [Features](#features)
 - [User Interface](#user-interface)
   - [Home Screen](#home-screen)
   - [Registration](#registration)
@@ -20,14 +20,14 @@ A simple Taxi Management System.
     - [Admin Dasboard](#admin-dasboard)
     - [User Dashboard](#user-dashboard)
     - [Driver Dashboard](#driver-dashboard)
-- [Technical Details:](#technical-details)
-- [Requirements:](#requirements)
-- [Database:](#database)
-- [Database Schema:](#database-schema)
-- [Dependencies:](#dependencies)
-- [How to Run:](#how-to-run)
-- [Application Pages:](#application-pages)
-- [Our APIs:](#our-apis)
+- [Technical Details](#technical-details)
+- [Requirements](#requirements)
+- [Database](#database)
+- [Database Schema](#database-schema)
+- [Dependencies](#dependencies)
+- [How to Run](#how-to-run)
+- [Application Pages](#application-pages)
+- [Our APIs](#our-apis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
