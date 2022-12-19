@@ -129,10 +129,10 @@ A simple Taxi Management System.
 ## How to Run
 
 - cd <root_directory>
-```bash
-npm install
-npm start
-```
+> ```sh
+> npm install
+> npm start
+> ```
 - Click on the link to open the application: http://localhost:1412/
 
 ## Application Pages
