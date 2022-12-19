@@ -8,6 +8,18 @@ A simple Taxi Management System.
 **Table of Contents**
 
 - [Features:](#features)
+- [User Interface](#user-interface)
+  - [Home Screen](#home-screen)
+  - [Registration](#registration)
+    - [User Registration](#user-registration)
+    - [Driver Registration](#driver-registration)
+  - [Login](#login)
+    - [Admin Login](#admin-login)
+    - [User-Driver Login](#user-driver-login)
+  - [Dashboard](#dashboard)
+    - [Admin Dasboard](#admin-dasboard)
+    - [User Dashboard](#user-dashboard)
+    - [Driver Dashboard](#driver-dashboard)
 - [Technical Details:](#technical-details)
 - [Requirements:](#requirements)
 - [Database:](#database)
