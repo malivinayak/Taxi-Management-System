@@ -43,44 +43,44 @@ A simple Taxi Management System.
 ## User Interface
 
 ### Home Screen
-<img height="auto" src="./Documentation\UI\Home.jpg" />
+> <img height="auto" src="./Documentation\UI\Home.jpg" />
 
 <hr>
 
 ### Registration
-
-#### User Registration 
-<img  src="./Documentation\UI\registration-user.jpg"/>
-
-#### Driver Registration 
-<img  src="./Documentation\UI\registration-driverLicenceInfo.jpg"/>
-
+> 
+> #### User Registration 
+> > <img  src="./Documentation\UI\registration-user.jpg"/>
+> 
+> #### Driver Registration 
+> > <img  src="./Documentation\UI\registration-driverLicenceInfo.jpg"/>
+> 
 <hr>
 
-### Login
-
-#### Admin Login
-<img  src="./Documentation\UI\login-admin.jpg"/>
-
-#### User-Driver Login 
-<img  src="./Documentation\UI\login-userDriver.jpg"/>
-
+> ### Login
+> 
+> #### Admin Login
+> > <img  src="./Documentation\UI\login-admin.jpg"/>
+> 
+> #### User-Driver Login 
+> > <img  src="./Documentation\UI\login-userDriver.jpg"/>
+> 
 <hr>
 
 ### Dashboard
-
-#### Admin Dasboard
-<img  src="./Documentation\UI\admin1.jpg"/>
-<img  src="./Documentation\UI\Admin2.jpg"/>
-<img  src="./Documentation\UI\Admin3.jpg"/>
-<img  src="./Documentation\UI\Admin4.jpg"/>
-
-#### User Dashboard 
-<img  src="./Documentation\UI\dashboard-user.jpg"/>
-
-#### Driver Dashboard 
-<img  src="./Documentation\UI\dashboard-driver.jpg"/>
-
+> 
+> #### Admin Dasboard
+> > <img  src="./Documentation\UI\admin1.jpg"/>
+> > <img  src="./Documentation\UI\Admin2.jpg"/>
+> > <img  src="./Documentation\UI\Admin3.jpg"/>
+> > <img  src="./Documentation\UI\Admin4.jpg"/>
+> 
+> #### User Dashboard 
+> > <img  src="./Documentation\UI\dashboard-user.jpg"/>
+> 
+> #### Driver Dashboard 
+> > <img  src="./Documentation\UI\dashboard-driver.jpg"/>
+> 
 ## Technical Details
 
 - Frontend: Bootstrap, HTML, CSS, JavaScript
