@@ -28,6 +28,47 @@ A simple Taxi Management System.
 - Driver can view the available trips along with the distance and fare.
 - User can see the Driver's details when he/she accepts the booking.
 
+### User Interface
+
+#### Home Screen
+<img height="auto" src="./Documentation\UI\Home.jpg" />
+
+<hr>
+
+#### Registration
+
+##### User Registration 
+<img  src="./Documentation\UI\registration-user.jpg"/>
+
+##### Driver Registration 
+<img  src="./Documentation\UI\registration-driverLicenceInfo.jpg"/>
+
+<hr>
+
+#### Login
+
+##### Admin Login
+<img  src="./Documentation\UI\login-admin.jpg"/>
+
+##### User-Driver Login 
+<img  src="./Documentation\UI\login-userDriver.jpg"/>
+
+<hr>
+
+#### Dashboard
+
+##### Admin Dasboard
+<img  src="./Documentation\UI\admin1.jpg"/>
+<img  src="./Documentation\UI\admin2.jpg"/>
+<img  src="./Documentation\UI\admin3.jpg"/>
+<img  src="./Documentation\UI\admin4.jpg"/>
+
+##### User Dashboard 
+<img  src="./Documentation\UI\dashboard-user.jpg"/>
+
+##### Driver Dashboard 
+<img  src="./Documentation\UI\dashboard-driver.jpg"/>
+
 ### Technical Details:
 
 - Frontend: Bootstrap, HTML, CSS, JavaScript
