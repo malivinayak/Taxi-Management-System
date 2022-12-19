@@ -43,7 +43,7 @@ A simple Taxi Management System.
 ### User Interface
 
 #### Home Screen
-<img height="auto" src="./Documentation\UI\home.jpg" />
+<img height="auto" src="./Documentation\UI\Home.jpg" />
 
 <hr>
 
@@ -71,9 +71,9 @@ A simple Taxi Management System.
 
 ##### Admin Dasboard
 <img  src="./Documentation\UI\admin1.jpg"/>
-<img  src="./Documentation\UI\admin2.jpg"/>
-<img  src="./Documentation\UI\admin3.jpg"/>
-<img  src="./Documentation\UI\admin4.jpg"/>
+<img  src="./Documentation\UI\Admin2.jpg"/>
+<img  src="./Documentation\UI\Admin3.jpg"/>
+<img  src="./Documentation\UI\Admin4.jpg"/>
 
 ##### User Dashboard 
 <img  src="./Documentation\UI\dashboard-user.jpg"/>
