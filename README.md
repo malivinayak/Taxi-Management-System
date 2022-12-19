@@ -32,7 +32,7 @@ A simple Taxi Management System.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Features:
+## Features
 
 - User and Driver Registration.
 - User can book a trip and Driver can accept the booking.
@@ -81,19 +81,19 @@ A simple Taxi Management System.
 #### Driver Dashboard 
 <img  src="./Documentation\UI\dashboard-driver.jpg"/>
 
-## Technical Details:
+## Technical Details
 
 - Frontend: Bootstrap, HTML, CSS, JavaScript
 - Backend: NodeJS, ExpressJS
 - Database: MySQL
 
-## Requirements:
+## Requirements
 
 - [NodeJS](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
 - [Below DataBase Structure](#database "Database & Database Structure")
 
-## Database:
+## Database
 
 - Name: taxi_management_system
 - Tables:
@@ -103,7 +103,7 @@ A simple Taxi Management System.
   - taxi
   - trip
 
-## Database Schema:
+## Database Schema
 
 - user:  
 ![image](https://user-images.githubusercontent.com/66154908/144718389-f33644cc-db92-4d83-a423-b0d74cbdbaa1.png)
@@ -120,20 +120,22 @@ A simple Taxi Management System.
 - trip:  
 ![image](https://user-images.githubusercontent.com/66154908/144718450-6b083140-6987-4ae8-9ad5-c32c16ca65c9.png)
 
-## Dependencies:
+## Dependencies
 
 - express
 - mysql
 - nodemon
 
-## How to Run:
+## How to Run
 
 - cd <root_directory>
-- `npm install`
-- `npm start`
+```bash
+npm install
+npm start
+```
 - Click on the link to open the application: http://localhost:1412/
 
-## Application Pages:
+## Application Pages
 
 - Home Page: http://localhost:1412/
 - User Registration Page: http://localhost:1412/signup-user/
@@ -144,7 +146,7 @@ A simple Taxi Management System.
 - Admin Login Page: http://localhost:1412/admin-login/
 - Admin Dashboard Page: http://localhost:1412/admin/
 
-## Our APIs:
+## Our APIs
 
 - Registration:
   - User: `/api/registration/user`
