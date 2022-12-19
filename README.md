@@ -1,7 +1,24 @@
-# Taxi Management System
+<h1> Taxi Management System </h1>
 
 A PBL (Project Based Learning) project for the course DBE (Database Engineering) at Kolhapur Institute of Technology.  
 A simple Taxi Management System.
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Features:](#features)
+- [Technical Details:](#technical-details)
+- [Requirements:](#requirements)
+- [Database:](#database)
+- [Database Schema:](#database-schema)
+- [Dependencies:](#dependencies)
+- [How to Run:](#how-to-run)
+- [Application Pages:](#application-pages)
+- [Our APIs:](#our-apis)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ### Features:
 
